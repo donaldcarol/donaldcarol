@@ -54,7 +54,7 @@ Most repositories here are **hands-on labs** focused on:
 ---
 
 ### 📫 How to reach me
-- LinkedIn: *(add link if you want)*
+- LinkedIn: https://www.linkedin.com/in/donald-carol-fitzai-a06257b/
 - GitHub: you’re already here 🙂
 
 ---
