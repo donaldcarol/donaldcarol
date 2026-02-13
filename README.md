@@ -1,67 +1,34 @@
-- ## 👋 Hi, I’m Donald
+# Donald Carol Fitzai
 
-Senior Infrastructure & Cloud Engineer with strong focus on **Azure**, **Terraform**, and **DevOps automation**.  
-I design, build, and operate **secure, scalable, and highly available** cloud and hybrid infrastructures.
-
----
-
-### 🔧 What I work with
-- **Cloud:** Microsoft Azure (IaaS, networking, identity), AWS (Terraform-based labs)
-- **Infrastructure as Code:** Terraform (modules, state management, best practices)
-- **DevOps:** Git, GitHub, CI/CD fundamentals, GitOps concepts
-- **Operating Systems:** Windows Server (senior), Linux
-- **Virtualization:** Hyper-V, VMware
-- **Identity & Security:** Entra ID (Azure AD), RBAC, basic Zero Trust principles
+Azure Infrastructure & DevOps Engineer  
+Cloud Identity • Secure Automation • Workload Federation
 
 ---
 
-### 🌱 Currently learning / improving
-- Advanced **Terraform** patterns (modules, remote backends, multi-environment setups)
-- **Multi-cloud** design (Azure + AWS)
-- CI/CD pipelines for infrastructure (GitHub Actions / Azure DevOps)
-- Cloud security and hardening best practices
+## Selected Projects
+
+### Azure VM Operations – Service Principal (Client Secret Model)
+Traditional CI/CD authentication using Azure AD Service Principal and GitHub repository secrets.
+
+[https://github.com/donaldcarol/azure-vm-lab-sp](https://github.com/donaldcarol/azure-vm-lifecycle-automation)
 
 ---
 
-### 🧪 Labs & repositories
-Most repositories here are **hands-on labs** focused on:
-- real-world infrastructure scenarios
-- reproducible setups
-- clean Git history (no secrets, no state files)
+### Azure VM Operations – OIDC (Workload Identity Federation)
+Modern secretless authentication between GitHub Actions and Microsoft Entra ID using OpenID Connect.
 
----
-### 📂 Featured repositories
-
-- 🔹 **Terraform Azure Lab**  
-  https://github.com/donaldcarol/terraform-azure-lab01  
-  Azure infrastructure lab using Terraform (networking, resource groups, best practices).
-
-- 🔹 **Terraform AWS Lab**  
-  https://github.com/donaldcarol/terraform-aws  
-  AWS infrastructure experiments with Terraform, focusing on clean state management and security (no hardcoded secrets).
-
-- 🔹 **DevOps Lab**  
-  https://github.com/donaldcarol/devops-lab  
-  Playground for DevOps concepts: Git workflows, IaC structure, and CI/CD experiments.
-
-
-
-### 💡 How I work
-- infrastructure as **code**, not click-ops
-- security and availability **by design**
-- simple, well-documented solutions over over-engineering
+https://github.com/donaldcarol/azure-vm-lab
 
 ---
 
-### 📫 How to reach me
-- LinkedIn: https://www.linkedin.com/in/donald-carol-fitzai-a06257b/
-- GitHub: you’re already here 🙂
+## Technical Focus
 
----
+- Microsoft Entra ID & Workload Identity Federation
+- Azure RBAC & Least Privilege Design
+- GitHub Actions CI/CD
+- Secure Infrastructure Automation
+- Azure VM Lifecycle Management
 
-⚡ Fun fact: I enjoy turning complex infrastructure problems into clean, automatable solutions.
-
-<!---
 donaldcarol/donaldcarol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
