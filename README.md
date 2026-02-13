@@ -1,7 +1,7 @@
 # Donald Carol Fitzai
 
 Azure Infrastructure & DevOps Engineer  
-Cloud Identity • Secure Automation • Workload Federation
+Windows Server • Azure • Identity & Access • Hybrid Infrastructure
 
 ---
 
