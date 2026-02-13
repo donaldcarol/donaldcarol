@@ -10,10 +10,9 @@ Cloud Identity • Secure Automation • Workload Federation
 ### Azure VM Operations – Service Principal (Client Secret Model)
 Traditional CI/CD authentication using Azure AD Service Principal and GitHub repository secrets.
 
-[https://github.com/donaldcarol/azure-vm-lab-sp](https://github.com/donaldcarol/azure-vm-lifecycle-automation)
+https://github.com/donaldcarol/azure-vm-lifecycle-automation
 
 ---
-
 ### Azure VM Operations – OIDC (Workload Identity Federation)
 Modern secretless authentication between GitHub Actions and Microsoft Entra ID using OpenID Connect.
 
