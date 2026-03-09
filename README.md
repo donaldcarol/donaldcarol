@@ -7,6 +7,11 @@ Windows Server • Azure • Identity & Access • Hybrid Infrastructure
 
 ## Selected Projects
 
+### Azure Terraform Foundation
+Infrastructure as Code project that deploys a basic Azure environment using Terraform.
+
+https://github.com/donaldcarol/azure-terraform-foundation
+
 ### Azure Authentication Patterns – Managed Identity vs Service Principal vs OIDC
 Comparative analysis and practical implementations of authentication models used in Azure workloads and modern CI/CD pipelines.
 
