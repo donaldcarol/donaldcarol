@@ -3,6 +3,10 @@
 Cloud & Infrastructure Engineer  
 Azure · Terraform · Identity · Hybrid Infrastructure
 
+![Terraform](https://img.shields.io/badge/IaC-Terraform-623CE4)
+![Azure](https://img.shields.io/badge/Cloud-Azure-0078D4)
+![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF)
+
 ---
 
 ## Selected Projects
