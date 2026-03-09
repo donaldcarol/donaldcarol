@@ -1,6 +1,6 @@
 # Donald Carol Fitzai
 
-Cloud & Infrastructure Engineer  
+Cloud & Infrastructure Engineer focused on Azure, Identity and Infrastructure as Code using Terraform.
 Azure · Terraform · Identity · Hybrid Infrastructure
 
 ![Terraform](https://img.shields.io/badge/IaC-Terraform-623CE4)
