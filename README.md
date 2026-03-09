@@ -1,14 +1,14 @@
 # Donald Carol Fitzai
 
-Azure Infrastructure & DevOps Engineer  
-Windows Server • Azure • Identity & Access • Hybrid Infrastructure
+Cloud & Infrastructure Engineer  
+Azure · Terraform · Identity · Hybrid Infrastructure
 
 ---
 
 ## Selected Projects
 
 ### Azure Terraform Foundation
-Infrastructure as Code project that deploys a basic Azure environment using Terraform.
+Infrastructure as Code project deploying an Azure network foundation using Terraform modules, environment separation and remote state in Azure Storage.
 
 https://github.com/donaldcarol/azure-terraform-foundation
 
@@ -16,6 +16,11 @@ https://github.com/donaldcarol/azure-terraform-foundation
 Comparative analysis and practical implementations of authentication models used in Azure workloads and modern CI/CD pipelines.
 
 https://github.com/donaldcarol/azure-authentication-patterns
+
+### Azure VM Operations – OIDC (Workload Identity Federation)
+Secure, secretless authentication between GitHub Actions and Microsoft Entra ID using OpenID Connect (OIDC).
+
+https://github.com/donaldcarol/azure-vm-lab
 
 ### Azure VM Ops via User-Assigned Managed Identity (UAMI)
 This repo demonstrates passwordless VM operations in Azure using a User-Assigned Managed Identity from a controller VM.
@@ -29,10 +34,7 @@ GitHub Actions integration with Azure using traditional client-secret-based auth
 https://github.com/donaldcarol/azure-vm-lifecycle-automation
 
 ---
-### Azure VM Operations – OIDC (Workload Identity Federation)
-Secure, secretless authentication between GitHub Actions and Microsoft Entra ID using OpenID Connect (OIDC).
 
-https://github.com/donaldcarol/azure-vm-lab
 
 ---
 
@@ -43,4 +45,5 @@ https://github.com/donaldcarol/azure-vm-lab
 - GitHub Actions CI/CD
 - Secure Infrastructure Automation
 - Azure VM Lifecycle Management
+- Infrastructure as Code (Terraform)
 
