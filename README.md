@@ -12,6 +12,11 @@ Azure · Terraform · Identity · Hybrid Infrastructure
 
 ## Selected Projects
 
+### Azure Cloud App Platform Labs
+This repository contains a series of hands-on labs exploring modern Azure application hosting and deployment patterns.
+
+https://github.com/donaldcarol/azure-cloud-app-platform-labs
+
 ### Azure Terraform Foundation
 Infrastructure as Code project deploying an Azure network foundation using Terraform modules, environment separation and remote state in Azure Storage.
 
