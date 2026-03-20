@@ -12,6 +12,11 @@ Azure · Terraform · Identity · Hybrid Infrastructure
 
 ## Selected Projects
 
+### Azure Functions Lead Processing Demo
+This project demonstrates a simple serverless business workflow built with Azure Functions.
+
+https://github.com/donaldcarol/azure-functions-lead-processing-demo
+
 ### Azure Cloud App Platform Labs
 This repository contains a series of hands-on labs exploring modern Azure application hosting and deployment patterns.
 
