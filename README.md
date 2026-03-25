@@ -33,7 +33,8 @@ Comparative analysis and practical implementations of authentication models used
 https://github.com/donaldcarol/azure-authentication-patterns
 
 ### Azure VM Operations – OIDC (Workload Identity Federation)
-Secure, secretless authentication between GitHub Actions and Microsoft Entra ID using OpenID Connect (OIDC).
+Secure, secretless authentication between GitHub Actions and Microsoft Entra ID using OpenID Connect (OIDC).  
+The workflow performs operational actions (status, start, stop, deallocate, restart) on an Azure Virtual Machine.
 
 https://github.com/donaldcarol/azure-vm-lab
 
