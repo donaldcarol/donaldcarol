@@ -1,19 +1,18 @@
 # Donald Carol Fitzai
 
-Cloud & Infrastructure Engineer focused on Azure, Identity and Infrastructure as Code using Terraform.
-
-Azure · Terraform · Identity · Hybrid Infrastructure
-
 ![Terraform](https://img.shields.io/badge/IaC-Terraform-623CE4)
 ![Azure](https://img.shields.io/badge/Cloud-Azure-0078D4)
 ![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF)
 
+Azure Cloud Engineer | Infrastructure Automation | Hybrid Cloud
+
+#### Azure-focused cloud engineer with hands-on experience building automation workflows, serverless solutions and secure cloud authentication models.
 ---
 
 ## Selected Projects
 
 ### Azure Functions Lead Processing Demo
-This project demonstrates a simple serverless business workflow built with Azure Functions.
+Serverless event-driven application using Azure Functions.
 
 https://github.com/donaldcarol/azure-functions-lead-processing-demo
 
@@ -23,12 +22,12 @@ This repository contains a series of hands-on labs exploring modern Azure applic
 https://github.com/donaldcarol/azure-cloud-app-platform-labs
 
 ### Azure Terraform Foundation
-Infrastructure as Code project deploying an Azure network foundation using Terraform modules, environment separation and remote state in Azure Storage.
+Infrastructure-as-Code deployment of Azure network foundations.
 
 https://github.com/donaldcarol/azure-terraform-foundation
 
 ### Azure Authentication Patterns – Managed Identity vs Service Principal vs OIDC
-Comparative analysis and practical implementations of authentication models used in Azure workloads and modern CI/CD pipelines.
+Managed Identity vs Service Principal vs OIDC.
 
 https://github.com/donaldcarol/azure-authentication-patterns
 
@@ -45,17 +44,21 @@ No client secrets, no certificates.
 https://github.com/donaldcarol/azure-vm-ops-managed-identity
 
 ### Azure VM Operations – Service Principal (Client Secret Model)
-GitHub Actions integration with Azure using traditional client-secret-based authentication.  
-Production-inspired demo repository that shows how to automate common Azure VM operations using GitHub  
-Actions:  
-- Start/Stop/Restart/Deallocate VMs
-- OS disk snapshots with retention cleanup
-- Windows patching (report / install) via Azure Run Command
+GitHub Actions automation for Azure VM operations.  
 
 https://github.com/donaldcarol/azure-vm-lifecycle-automation
 
 ---
+### Technologies
 
+- Azure
+- Terraform
+- GitHub Actions
+- Azure Functions
+- Microsoft Entra ID
+- Docker
+- Azure CLI
+- PowerShell
 
 ---
 
