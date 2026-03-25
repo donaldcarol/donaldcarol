@@ -45,7 +45,12 @@ No client secrets, no certificates.
 https://github.com/donaldcarol/azure-vm-ops-managed-identity
 
 ### Azure VM Operations – Service Principal (Client Secret Model)
-GitHub Actions integration with Azure using traditional client-secret-based authentication.
+GitHub Actions integration with Azure using traditional client-secret-based authentication.  
+Production-inspired demo repository that shows how to automate common Azure VM operations using GitHub  
+Actions:  
+- Start/Stop/Restart/Deallocate VMs
+- OS disk snapshots with retention cleanup
+- Windows patching (report / install) via Azure Run Command
 
 https://github.com/donaldcarol/azure-vm-lifecycle-automation
 
