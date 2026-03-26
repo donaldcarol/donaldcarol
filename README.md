@@ -11,41 +11,38 @@ Azure Cloud Engineer | Infrastructure Automation | Hybrid Cloud
 
 ## Selected Projects
 
-### Azure Functions Lead Processing Demo
-Serverless event-driven application using Azure Functions.
+### Azure VM Automation Toolkit
+PowerShell automation toolkit for Azure VM lifecycle management using GitHub Actions and OIDC authentication.  
+https://github.com/donaldcarol/azure-vm-powershell-toolkit
 
+### Azure Functions Lead Processing Demo
+Serverless event-driven application using Azure Functions.  
 https://github.com/donaldcarol/azure-functions-lead-processing-demo
 
 ### Azure Cloud App Platform Labs
-This repository contains a series of hands-on labs exploring modern Azure application hosting and deployment patterns.
-
+This repository contains a series of hands-on labs exploring modern Azure application hosting and deployment patterns.  
 https://github.com/donaldcarol/azure-cloud-app-platform-labs
 
 ### Azure Terraform Foundation
-Infrastructure-as-Code deployment of Azure network foundations.
-
+Infrastructure-as-Code deployment of Azure network foundations.  
 https://github.com/donaldcarol/azure-terraform-foundation
 
 ### Azure Authentication Patterns – Managed Identity vs Service Principal vs OIDC
-Managed Identity vs Service Principal vs OIDC.
-
+Managed Identity vs Service Principal vs OIDC.  
 https://github.com/donaldcarol/azure-authentication-patterns
 
 ### Azure VM Operations – OIDC (Workload Identity Federation)
 Secure, secretless authentication between GitHub Actions and Microsoft Entra ID using OpenID Connect (OIDC).  
-The workflow performs operational actions (status, start, stop, deallocate, restart) on an Azure Virtual Machine.
-
+The workflow performs operational actions (status, start, stop, deallocate, restart) on an Azure Virtual Machine.  
 https://github.com/donaldcarol/azure-vm-lab
 
 ### Azure VM Ops via User-Assigned Managed Identity (UAMI)
 This repo demonstrates passwordless VM operations in Azure using a User-Assigned Managed Identity from a controller VM.
-No client secrets, no certificates.
-
+No client secrets, no certificates.  
 https://github.com/donaldcarol/azure-vm-ops-managed-identity
 
 ### Azure VM Operations – Service Principal (Client Secret Model)
 GitHub Actions automation for Azure VM operations.  
-
 https://github.com/donaldcarol/azure-vm-lifecycle-automation
 
 ---
