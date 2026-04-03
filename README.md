@@ -9,7 +9,11 @@ Azure Cloud Engineer | Infrastructure Automation | Hybrid Cloud
 #### Azure-focused cloud engineer with hands-on experience building automation workflows, serverless solutions and secure cloud authentication models.
 ---
 
-## Selected Projects
+## Selected 
+
+### Azure Cloud-First Office Architecture
+Cloud-first architecture design for a 50–250 user organization using Microsoft Entra ID, Intune and Microsoft 365. 
+https://github.com/donaldcarol/azure-cloud-first-office-architecture
 
 ### Azure VM Automation Toolkit
 PowerShell automation toolkit for Azure VM lifecycle management using GitHub Actions and OIDC authentication.  
