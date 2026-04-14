@@ -9,7 +9,7 @@ Azure Cloud Engineer | Infrastructure Automation | Hybrid Cloud
 #### Azure-focused cloud engineer with hands-on experience building automation workflows, serverless solutions and secure cloud authentication models.
 ---
 
-## Selected 
+## Selected repositories
 
 ### Azure Global Web App Architecture Demo  
 This project demonstrates a multi-tier Azure architecture using global and regional load balancing components.
