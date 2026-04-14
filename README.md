@@ -11,6 +11,10 @@ Azure Cloud Engineer | Infrastructure Automation | Hybrid Cloud
 
 ## Selected 
 
+### Azure Global Web App Architecture Demo  
+This project demonstrates a multi-tier Azure architecture using global and regional load balancing components.
+https://github.com/donaldcarol/azure-global-webapp-architecture
+
 ### Azure Cloud-First Office Architecture
 Cloud-first architecture design for a 50–250 user organization using Microsoft Entra ID, Intune and Microsoft 365. 
 https://github.com/donaldcarol/azure-cloud-first-office-architecture
