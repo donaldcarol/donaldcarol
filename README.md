@@ -11,6 +11,15 @@ Azure Cloud Engineer | Infrastructure Automation | Hybrid Cloud
 
 ## Selected repositories
 
+### Microsoft Graph PowerShell Admin Labs
+Practical Microsoft Graph examples for Microsoft 365, Entra ID and Intune administration using PowerShell and modern authentication methods.  
+This repository demonstrates how Microsoft Graph can be used for cloud administration, reporting and automation while replacing legacy modules such as AzureAD and MSOnline.   
+https://github.com/donaldcarol/m365-graph-automation-labs
+
+### Azure IAM & Federation Fundamentals
+A practical hands-on repository focused on modern Identity and Access Management (IAM) concepts in Microsoft Entra ID and cloud environments.  
+https://github.com/donaldcarol/azure-iam-federation-fundamentals
+
 ### Azure Global Web App Architecture Demo  
 This project demonstrates a multi-tier Azure architecture using global and regional load balancing components.
 https://github.com/donaldcarol/azure-global-webapp-architecture
