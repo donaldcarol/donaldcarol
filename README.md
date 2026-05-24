@@ -1,6 +1,8 @@
 # Donald Carol Fitzai
 
 ![Azure](https://img.shields.io/badge/Cloud-Azure-green)
+![PowerShell](https://img.shields.io/badge/PowerShell-7-blue)
+![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 ![Terraform](https://img.shields.io/badge/IaaC-Terraform-623CE4)
 ![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF)
 
