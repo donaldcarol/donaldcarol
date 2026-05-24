@@ -11,6 +11,10 @@ Azure Cloud Engineer | Infrastructure Automation | Hybrid Cloud
 
 ## Selected repositories
 
+### PowerShell File & Remote Admin Toolkit
+A collection of practical PowerShell scripts for file management and remote Windows administration.
+https://github.com/donaldcarol/powershell-file-admin-toolkit
+
 ### Microsoft Graph PowerShell Admin Labs
 Practical Microsoft Graph examples for Microsoft 365, Entra ID and Intune administration using PowerShell and modern authentication methods.  
 This repository demonstrates how Microsoft Graph can be used for cloud administration, reporting and automation while replacing legacy modules such as AzureAD and MSOnline.   
