@@ -8,6 +8,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-black?logo=githubactions)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 ![PowerShell](https://img.shields.io/badge/PowerShell-7+-blue)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 Azure Cloud Engineer | Infrastructure Automation | Hybrid Cloud
 
