@@ -17,6 +17,12 @@ Azure Cloud Engineer | Infrastructure Automation | Hybrid Cloud
 
 ## Selected repositories
 
+### Azure Landing Zone Foundations
+
+
+https://github.com/donaldcarol/azure-landing-zone-foundations
+
+
 ### PowerShell Admin Toolkit
 A collection of practical PowerShell scripts for file management and remote Windows administration.
 [https://github.com/donaldcarol/powershell-admin-toolkit](https://github.com/donaldcarol/powershell-admin-toolkit)
