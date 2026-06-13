@@ -31,6 +31,7 @@ https://github.com/donaldcarol/azure-platform-engineering
 
 ### Azure Landing Zone Foundations
 
+This repository documents a reference Azure Landing Zone architecture covering governance, identity, networking, security, monitoring, business continuity, and operational management.
 
 https://github.com/donaldcarol/azure-landing-zone-foundations
 
