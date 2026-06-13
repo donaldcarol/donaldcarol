@@ -17,6 +17,18 @@ Azure Cloud Engineer | Infrastructure Automation | Hybrid Cloud
 
 ## Selected repositories
 
+### Azure DevOps & Infrastructure Automation Lab
+
+• Designed and implemented Azure DevOps multi-stage YAML pipelines for Terraform-based infrastructure deployment.
+• Configured Azure DevOps Service Connections using Workload Identity Federation (OIDC) without client secrets.
+• Integrated Azure DevOps Pipelines with Azure subscriptions through Microsoft Entra ID.
+• Built Terraform validation and planning stages using self-hosted Azure DevOps agents.
+• Implemented Infrastructure as Code workflows using Terraform and Azure Resource Manager.
+• Configured and managed self-hosted Azure DevOps agents.
+• Managed source control using Azure Repos and Git.
+
+https://github.com/donaldcarol/azure-platform-engineering
+
 ### Azure Landing Zone Foundations
 
 
