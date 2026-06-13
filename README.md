@@ -1,14 +1,10 @@
 # Donald Carol Fitzai
 
 ![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?logo=microsoftazure)
-![Microsoft Graph](https://img.shields.io/badge/Microsoft-Graph-green)
-![Entra ID](https://img.shields.io/badge/Entra-ID-blue)
-![Azure](https://img.shields.io/badge/Azure-Identity-blue)
-![Terraform](https://img.shields.io/badge/IaaC-Terraform-623CE4)
-![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-black?logo=githubactions)
-![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
-![PowerShell](https://img.shields.io/badge/PowerShell-7+-blue)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-CI%2FCD-0078D7?logo=azuredevops)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-844FBA?logo=terraform)
+![Entra ID](https://img.shields.io/badge/Entra%20ID-Identity-0078D4?logo=microsoft)
+![OIDC](https://img.shields.io/badge/OIDC-Workload%20Identity-green)
 
 Azure Cloud Engineer | Infrastructure Automation | Hybrid Cloud
 
